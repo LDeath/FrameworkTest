@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FrameworkTest"
-  s.version      = "0.4"
+  s.version      = "0.5"
   s.summary      = "FrameworkTest is test."
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "高赛" => "395765302@qq.com" }
